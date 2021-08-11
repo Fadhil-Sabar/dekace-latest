@@ -1486,9 +1486,6 @@ responsive
 }
 
 @media (max-width: 992px) {
-  .js-preloader {
-    display: none;
-  }
   #foot-btn {
     max-width: 90%;
   }
@@ -1609,9 +1606,6 @@ responsive
 }
 
 @media (max-width: 767px) {
-  .js-preloader {
-    display: none;
-  }
   .about-us .left-image {
     bottom: -280px;
   }
