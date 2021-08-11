@@ -168,7 +168,6 @@ ul {
 
 p {
   font-size: 15px;
-  line-height: 30px;
   color: #2a2a2a;
 }
 
@@ -992,13 +991,12 @@ About Us Style
   color: #fff;
   font-size: 20px;
   font-weight: 700;
-  margin-bottom: 12px;
 }
 
 .about-us .services .item p {
   color: #fff;
+  padding-left: 95px;
 }
-
 /* 
 ---------------------------------------------
 Services Style
